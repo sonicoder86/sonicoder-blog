@@ -13,7 +13,8 @@ export default function Projects() {
             Courses
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Upcoming courses: if You want to be notified about the release, subscribe to the newsletter!
+            Upcoming courses: if You want to be notified about the release, subscribe to the
+            newsletter!
           </p>
         </div>
         <div className="container py-12">
