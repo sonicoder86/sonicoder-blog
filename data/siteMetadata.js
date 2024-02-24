@@ -7,7 +7,7 @@ const siteMetadata = {
     'A blog about creating and deploying well-architected production-ready Javascript applications like a professional',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://sonicoder-blog.vercel.app',
   siteRepo: 'https://github.com/sonicoder86/sonicoder-blog',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
