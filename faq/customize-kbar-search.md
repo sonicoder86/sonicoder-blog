@@ -30,8 +30,8 @@ export const SearchProvider = ({ children }) => {
             perform: () => router.push('/'),
           },
           {
-            id: 'projects',
-            name: 'Projects',
+            id: 'courses',
+            name: 'Courses',
             keywords: '',
             shortcut: ['p'],
             section: 'Home',
