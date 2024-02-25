@@ -14,7 +14,7 @@ summary: Making Vite, the brand new incredibly fast development server for Vue 3
 Let's start by creating a Vite project from scratch.
 
 ```bash
-npm init @vitejs/app my-vite-app --template vue-ts
+npm create vite@latest my-vue-app -- --template vue-ts
 ```
 
 The above command creates a Vue 3 Typescript application into the `my-vite-app` folder. The folder structure will look like this.
@@ -186,5 +186,3 @@ If we run the above script, we get passing shiny green end-to-end test results.
 ### Summary
 
 Vite is a great development server, but its templates lack testing solutions. We have to add them manually. Jest and Cypress offer straightforward scenarios to fill in this gap. We can also swap them to similar libraries like Mocha, Jasmine, and Puppeteer. After this article, I hope the lack of out-of-the-box testing with Vite doesn't hold back anyone from using it.
-
-If you don't want to set up everything manually, you can use my [Vue 3 Playground](https://github.com/vuesomedev/vue-3-playground) as a starter.
