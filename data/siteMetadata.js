@@ -1,13 +1,13 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'SoniCoder Blog',
+  title: 'SoniCoder',
   author: 'Gábor Soós',
   headerTitle: 'SoniCoder',
   description:
     'A blog about creating and deploying well-architected production-ready Javascript applications like a professional',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://sonicoder-blog.vercel.app',
+  siteUrl: 'https://sonicoder.com',
   siteRepo: 'https://github.com/sonicoder86/sonicoder-blog',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
